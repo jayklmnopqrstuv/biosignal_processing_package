@@ -7,6 +7,7 @@ Processing includes:
 - segmentation
 - signal quality assessment
 - feature extraction
+- signal visualization (using Bokeh)
 
 Functions are outlined and being demonstrated using Jupyter notebooks here: https://github.com/jayklmnopqrstuv/biosignal_processing_package/tree/main/documents 
 
